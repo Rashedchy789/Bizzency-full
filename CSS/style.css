@@ -559,7 +559,9 @@ footer .icon {
   display: block;
   margin-top: 30px;
 }
-
+footer .icon i {
+  font-size: 25px;
+}
 footer .footer .info {
   width: 80%;
   display: block;
